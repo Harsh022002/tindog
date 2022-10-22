@@ -180,7 +180,7 @@ p {
 }
 
 /* Responsivesness */
-@media (max-width: 1028px){
+@media (max-width: 900px){
     
     #title .container-fluid {
         text-align: center;
